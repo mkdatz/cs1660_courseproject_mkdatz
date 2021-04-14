@@ -1,6 +1,8 @@
 # Data Science Toolbox
 
-A docker microservices "box" hosted in docker with a python flask GUI app. Created for CS1660, Intro to Cloud Computing, University of Pittsburgh.
+A docker microservices "box" hosted in docker with a python flask GUI app. Implements several data science tools. Created for CS1660, Intro to Cloud Computing, University of Pittsburgh.
+
+Docker Hub link for image: https://hub.docker.com/repository/docker/mkdatz/datzprojectflask
 
 ## Prerequisites
 
