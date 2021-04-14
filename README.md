@@ -10,7 +10,7 @@ Download this repository and navigate to the directory with the docker compose f
 
 Call "docker-compose up" and wait for images to install!
 
-Once the images are installed and completed- navigate to your localhost, IP port 5000 (flask default).
+Once the images are installed and completed- navigate to your localhost in a browser of your choice, IP port 5000 (flask default).
 
 Click on any button to navigate to that microservice. Note that each button opens in the same tab, so you will need to right click to open in a new tab.
 
