@@ -16,6 +16,10 @@ Click on any button to navigate to that microservice. Note that each button open
 
 Call "docker-compose down" when you are finished!
 
+## Passwords/Access codes
+
+Orange data mining through noVNC: "pass"
+
 ## Prerequisites
 
 Docker installed on the host machine.
