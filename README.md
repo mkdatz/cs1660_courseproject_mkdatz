@@ -4,6 +4,18 @@ A docker microservices "box" hosted in docker with a python flask GUI app. Imple
 
 Docker Hub link for image: https://hub.docker.com/repository/docker/mkdatz/datzprojectflask
 
+## To Run
+
+Download this repository and navigate to the directory with the docker compose file. 
+
+Call "docker-compose up" and wait for images to install!
+
+Once the images are installed and completed- navigate to your localhost, IP port 5000 (flask default).
+
+Click on any button to navigate to that microservice. Note that each button opens in the same tab, so you will need to right click to open in a new tab.
+
+Call "docker-compose down" when you are finished!
+
 ## Prerequisites
 
 Docker installed on the host machine.
