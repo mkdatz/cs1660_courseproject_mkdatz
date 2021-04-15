@@ -2,7 +2,7 @@
 
 A docker microservices "box" hosted in docker with a python flask GUI app. Implements several data science tools. Created for CS1660, Intro to Cloud Computing, University of Pittsburgh.
 
-Docker Hub link for image: https://hub.docker.com/repository/docker/mkdatz/datzprojectflask
+Docker Hub link for image: https://hub.docker.com/repository/docker/mkdatz/datzprojectflasknew
 
 Video demo: https://pitt.app.box.com/folder/135580757188?s=u7l8qzzusba4w5uqknelyjpkxc9rpp2l
 
