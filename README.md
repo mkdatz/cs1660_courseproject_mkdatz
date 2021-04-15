@@ -38,6 +38,12 @@ Make sure your ports are free before starting the app- docker often throws error
 
 Sonarqube had run previously, but it looks like the underlying Elastisearch is flagged as a possible memory leak in MacOS Big Sur. I was unable to load the container corrrectly after running it once. I mentioned this in the video.
 
+## Brief Notes
+
+Thanks to https://felipefaria.medium.com/running-a-simple-flask-application-inside-a-docker-container-b83bf3e07dd5 I was able to get a basic flask app running. 
+
+Thanks to https://github.com/big-data-europe/docker-hadoop/blob/master/hadoop.env for the Hadoop environmental variables.
+
 ## Video
 
 https://pitt.app.box.com/folder/135580757188?s=u7l8qzzusba4w5uqknelyjpkxc9rpp2l
