@@ -4,6 +4,8 @@ A docker microservices "box" hosted in docker with a python flask GUI app. Imple
 
 Docker Hub link for image: https://hub.docker.com/repository/docker/mkdatz/datzprojectflask
 
+Video demo: https://pitt.app.box.com/folder/135580757188?s=u7l8qzzusba4w5uqknelyjpkxc9rpp2l
+
 ## To Run
 
 Download this repository and navigate to the directory with the docker compose file. 
@@ -34,7 +36,7 @@ Sonarqube had run previously, but it looks like the underlying Elastisearch is f
 
 ## Video
 
-TO BE ADDED
+https://pitt.app.box.com/folder/135580757188?s=u7l8qzzusba4w5uqknelyjpkxc9rpp2l
 
 
 ## License
