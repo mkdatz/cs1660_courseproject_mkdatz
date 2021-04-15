@@ -8,6 +8,8 @@ Video demo: https://pitt.app.box.com/folder/135580757188?s=u7l8qzzusba4w5uqknely
 
 (I apologize for the long video, I was unable to pause recording and my computer was running very slow as I had another project in the background.)
 
+Backup video for when Pitt Box is discontinued: https://drive.google.com/drive/folders/1Vs-CKzZ0UjSGSSJHmak413qr8fbmcOWr?usp=sharing
+
 ## To Run
 
 Download this repository and navigate to the directory with the docker compose file. 
